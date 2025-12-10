@@ -18,8 +18,8 @@ This project predicts a student’s **final exam score** using socio-academic fa
 
 ## 👨‍🎓 Team Members
 
-- **Ali Ahmed Malik**  
-- **Waleed Sultan**  
+- **Ali Ahmed Malik (01-134222-022)**  
+- **Waleed Sultan (01-134221-057)**  
 
 **Course:** Introduction to Data Science  
 **Semester:** Fall 2025  
