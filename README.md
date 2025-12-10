@@ -83,5 +83,4 @@ This project predicts a student’s **final exam score** using socio-academic fa
 
 ---
 
-## 📂 Project Structure
 
