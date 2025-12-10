@@ -6,7 +6,7 @@ This project predicts a student’s **final exam score** using socio-academic fa
 ---
 # 🎥 Project Demo Video  
 ▶️ **Watch Here:**  
-*(https://youtube.com/shorts/MCxh4-IRkTI?si=XPGzrh2zjMkW52cA)*
+*(https://youtube.com/playlist?list=PLq342nOpX_pt-DzzfH2ejzrYPWhaEco5l&si=kYlkg3-Jg2blS7Al)*
 
 ---
 ## 📌 Project Overview
